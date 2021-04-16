@@ -210,5 +210,5 @@ You can download the source code from [here.](https://codeload.github.com/asadnm
 ---
 
 ## Copyright, Author
-*Copyright 2021*, Asad Naveed Malik, *All rights reserved.*
+*Copyright 2021*, Muhammad Mutahir Ali, *All rights reserved.*
 
