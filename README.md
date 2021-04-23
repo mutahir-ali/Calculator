@@ -1,6 +1,6 @@
 # How to make a web app calculator using HTML,CSS, Javascript
 ## Overview
-If you're looking to make a simple web app calculator or want to learn making web apps like this one this repo will guide you through it.
+Make a simple calculater using HTML and Javascript.
 
 ---
 
@@ -196,19 +196,9 @@ document.querySelector(".clearBtn").addEventListener("click", function() {
 
  ```
 ---
-## Source Code
-You can download the source code from [here.](https://codeload.github.com/asadnmalik/calculator/zip/refs/heads/main)
-
----
 ## Built With
 
 * HTML
 * CSS
 * Bootstrap
 * Javascript
-
----
-
-## Copyright, Author
-*Copyright 2021*, Muhammad Mutahir Ali, *All rights reserved.*
-
